@@ -7,5 +7,3 @@
 - 👯 I’m looking to collaborate on **Web Applications**
 - 💬 Ask me about **Java/Spring**
 - 📫 How to reach me: **costaeduardoluiz@gmail.com**
-
-![Luiz's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=oluizeduardo&hide=html&layout=compact)
