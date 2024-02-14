@@ -29,3 +29,10 @@
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 <br />
+
+---
+
+### 📪 Contacts
+<a href="https://www.linkedin.com/in/luiz-eduardo-costa"><img title="LinkedIn" src="https://img.shields.io/badge/Luiz Eduardo Costa-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:costaeduardoluiz@gmail.com"><img title="Email" src="https://img.shields.io/badge/costaeduardoluiz@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/oluizeduardo/"><img title="Instagram" src="https://img.shields.io/badge/oluizeduardo-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
