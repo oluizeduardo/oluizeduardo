@@ -3,7 +3,7 @@
 ### I'm a Full Stack Software Developer.
 
 - 🔭 I’m currently working on [SCRUM Planning Poker](https://github.com/oluizeduardo/planning-poker) and [Glicocheck API](https://github.com/oluizeduardo/glicocheck-api).
-- 🌱 I’m currently learning **NodeJS/React**
+- 🌱 I’m currently learning **Microservices/DDD/Docker/AWS**
 - 👯 I’m looking to collaborate on **Web Applications**
 - 💬 Ask me about **Java/Spring**
 
